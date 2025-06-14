@@ -38,7 +38,7 @@ if errorlevel 1 (
     echo 3. Sua conexao com internet esta funcionando
     echo.
     echo Para configurar o repositorio remoto, execute:
-    echo git remote add origin https://github.com/SEU_USUARIO/timeline-relacionamento-luanna.git
+    echo git remote add origin https://github.com/KeiserMejido/timeline-relacionamento-luanna.git
     pause
     exit /b 1
 )
